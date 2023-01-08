@@ -1,0 +1,21 @@
+#chartdiv {
+    width: 100%;
+    height: 300px;
+}
+
+.bg-move {
+    background-color: #A162F7;
+    ;
+}
+
+.bg-gold {
+    background-color: #E1DFA4;
+}
+
+.bg-red {
+    background-color: #F4E3E5;
+}
+
+.bg-blue {
+    background-color: #E3ECF1;
+}
